@@ -1,5 +1,5 @@
 #for this program we use monte carlo simulation to approximate pie.
-#The large number of dots you enter, the better the approximation get.
+#The large number of dots you enter, the better the approximation is
 import random
 import math
 
